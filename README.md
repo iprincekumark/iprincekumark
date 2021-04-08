@@ -11,7 +11,7 @@ My other interests include gaming, listening to music and playing football.
 <div align="center">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/iprincekumark/) [<img src="https://img.shields.io/badge/-PrinceKumarKanoujiya-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:iprincekumark@gmail.com) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/iprincekumark) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/iprincekumark/) [<img src = "https://img.shields.io/badge/Resume%20-%23326ce5.svg?&style=for-the-badge&logo=microsoft-word&logoColor=white">](https://drive.google.com/drive/u/0/folders/12K1bet53dK1ZH6D7QsUPZCh7T3Aw3G_J) [![GitHub followers](https://img.shields.io/github/followers/iprincekumark?label=Followers&style=for-the-badge)](https://github.com/iprincekumark?tab=followers)
-[![Repos Badge](https://badges.pufler.dev/repos/iprincekumark?style=for-the-badge)](https://github.com/iprincekumark?tab=repositories) [![Commits Badge](https://badges.pufler.dev/commits/monthly/iprincekumark?style=for-the-badge)](https://github.com/iprincekumark) 
+[![Repos Badge](https://badges.pufler.dev/repos/iprincekumark?style=for-the-badge)](https://github.com/iprincekumark?tab=repositories)
 
 <hr>
 
