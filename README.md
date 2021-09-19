@@ -14,8 +14,9 @@ My other interests include gaming, listening to music and playing football.`
 [![Repos Badge](https://badges.pufler.dev/repos/iprincekumark?style=for-the-badge)](https://github.com/iprincekumark?tab=repositories)
 
 
-![Prince Kumar Kanoujiya's github stats](https://github-readme-stats.vercel.app/api?username=iprincekumark&&show_icons=true&title_color=9ad1ed&icon_color=1cf7ff&text_color=daf7dc&bg_color=242121)
-![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=iprincekumark&title_color=9ad1ed&text_color=daf7dc&bg_color=242121&layout=compact)
+![Prince Kumar Kanoujiya's github stats](https://github-readme-stats.vercel.app/api?username=iprincekumark&&show_icons=true&theme=github_dark)
+![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=iprincekumark&theme=github_dark&layout=compact)
+
 
  <hr>
 
