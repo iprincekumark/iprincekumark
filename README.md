@@ -5,7 +5,7 @@
 </h1>
 
 `I am Front End Web Developer from India currently pursuing my Bachelor's degree in Computer Science Technology from Graphic Era Deemed University, Dehradun.
-I have a keen interest in developing systems which can solve real life problems. I am also gaining experience in the field of Internet Of Things (IOT) and Cloud Computing.
+I have a keen interest in developing systems which can solve real life problems. I am also gaining experience in the field of professional coding and Cloud Computing.
 My other interests include gaming, listening to music and playing football.`
 
 <div align="center">
