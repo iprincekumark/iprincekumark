@@ -15,23 +15,13 @@ My other interests include gaming, listening to music and playing football.`
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/iprincekumark/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/iprincekumark/) [<img src = "https://img.shields.io/badge/Resume%20-%23326ce5.svg?&style=for-the-badge&logo=microsoft-word&logoColor=white">](https://drive.google.com/drive/u/0/folders/12K1bet53dK1ZH6D7QsUPZCh7T3Aw3G_J) [![GitHub followers](https://img.shields.io/github/followers/iprincekumark?label=Followers&style=for-the-badge)](https://github.com/iprincekumark?tab=followers)
 [![Repos Badge](https://badges.pufler.dev/repos/iprincekumark?style=for-the-badge)](https://github.com/iprincekumark?tab=repositories)
 
+<hr>
 
 ![Prince Kumar Kanoujiya's github stats](https://github-readme-stats.vercel.app/api?username=iprincekumark&&show_icons=true&theme=github_dark)
 ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=iprincekumark&theme=github_dark&layout=compact)
 
-
  <hr>
 
-    
-<h1 align="center"> ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ɪ'ᴍ ᴄᴏᴍꜰᴏʀᴛᴀʙʟᴇ ᴡɪᴛʜ </h1>
-    
-<p align="center">
-<img src="https://img.icons8.com/color/65/000000/c-programming.png"/> <img src="https://img.icons8.com/color/65/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/65/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/65/000000/python.png"/> <img src="https://img.icons8.com/color/65/000000/javascript.png"/> 
-<br>
-<img src="https://img.icons8.com/color/65/000000/html-5.png"/> <img src="https://img.icons8.com/color/65/000000/css3.png"/> <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/> <img src="https://img.icons8.com/ultraviolet/55/000000/react.png"/> 
-<br/>
-<img src="https://img.icons8.com/color/80/000000/django.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/80/000000/nodejs.png"/>&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/ios/80/000000/mysql-logo.png"/> 
-<br>
-<img src="https://img.icons8.com/color/65/000000/git.png"/><img src="https://img.icons8.com/windows/65/000000/github.png"/>&nbsp;
-</p>
-<hr>
+
+
+
