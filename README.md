@@ -4,6 +4,12 @@
 
 </h1>
 
+##  About Meee <img src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width="80px"> 
+-  My name is **Prince Kumar Kanoujiya**
+-  I'm a student of **B.Tech Computer Science & Technology** 
+-  I am interested in **Software Developer** , **Web Development** and **Google Analytics**
+-  My favourite language for **DSA** and **general programming** is **C++**
+
 `I am Front End Web Developer from India currently pursuing my Bachelor's degree in Computer Science Technology from Graphic Era Deemed University, Dehradun.
 I have a keen interest in developing systems which can solve real life problems. I am also gaining experience in the field of professional coding and Cloud Computing.
 My other interests include gaming, listening to music and playing football.`
