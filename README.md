@@ -1,10 +1,15 @@
 
 <h1>
     <img src="https://github.com/iprincekumark/iprincekumark/blob/main/media/banner.gif" alt="" style="max-width:100%;">
-    <img src="https://media.giphy.com/media/5c5hIZVydGahjjmiHS/giphy.gif" width="150px">  𝕎𝕖𝕝𝕔𝕠𝕞𝕖, 𝕞𝕪 𝕟𝕒𝕞𝕖 𝕚𝕤 ℙ𝕣𝕚𝕟𝕔𝕖 𝕂𝕦𝕞𝕒𝕣 𝕂𝕒𝕟𝕠𝕦𝕛𝕚𝕪𝕒.
-    <img src="https://media.giphy.com/media/mFTVjWHFk0dw2qxJKs/giphy.gif" width="1000px" height="10" >
+    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iprincekumark&theme=dark)](https://git.io/streak-stats)
+    
+<img src="https://media.giphy.com/media/5c5hIZVydGahjjmiHS/giphy.gif" width="150px">  𝕎𝕖𝕝𝕔𝕠𝕞𝕖, 𝕞𝕪 𝕟𝕒𝕞𝕖 𝕚𝕤 ℙ𝕣𝕚𝕟𝕔𝕖 𝕂𝕦𝕞𝕒𝕣 𝕂𝕒𝕟𝕠𝕦𝕛𝕚𝕪𝕒.
+<img src="https://media.giphy.com/media/mFTVjWHFk0dw2qxJKs/giphy.gif" width="1000px" height="10" >
+    
 
 </h1>
+
 
 ##  About Meee <img src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width="80px"> 
 -  My name is **Prince Kumar Kanoujiya**
@@ -17,6 +22,8 @@ I have a keen interest in developing systems which can solve real life problems.
 My other interests include gaming, listening to music and playing football.`
 
 <div align="center">
+    
+
 
 [<img src="https://tenor.com/view/falling-leaves-youtube-thanksgiving-pop-explode-gif-19389326.gif" width="120px">](https://www.youtube.com/channel/UCbUjGQ_5IpyrylzplVZKB9w)[<img src="https://tenor.com/view/youtube-gif-21553644.gif" width="120px">](https://www.youtube.com/channel/UCbUjGQ_5IpyrylzplVZKB9w) 
     
