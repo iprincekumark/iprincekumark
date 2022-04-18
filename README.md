@@ -2,7 +2,7 @@
 <h1>
     <img src="https://github.com/iprincekumark/iprincekumark/blob/main/media/banner.gif" alt="" style="max-width:100%;">
     
-&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iprincekumark&theme=dark)](https://git.io/streak-stats)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iprincekumark&theme=dark)](https://git.io/streak-stats)
     
 <img src="https://media.giphy.com/media/5c5hIZVydGahjjmiHS/giphy.gif" width="150px">  𝕎𝕖𝕝𝕔𝕠𝕞𝕖, 𝕞𝕪 𝕟𝕒𝕞𝕖 𝕚𝕤 ℙ𝕣𝕚𝕟𝕔𝕖 𝕂𝕦𝕞𝕒𝕣 𝕂𝕒𝕟𝕠𝕦𝕛𝕚𝕪𝕒.
 <img src="https://media.giphy.com/media/mFTVjWHFk0dw2qxJKs/giphy.gif" width="1000px" height="10" >
