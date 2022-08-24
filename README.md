@@ -2,13 +2,13 @@
 <img src="./media/banner.gif" alt="" style="max-width:100%;">
 
 <h1>
-<img src="https://media.giphy.com/media/5c5hIZVydGahjjmiHS/giphy.gif" width="150px" height="120">  𝕎𝕖𝕝𝕔𝕠𝕞𝕖, 𝕞𝕪 𝕟𝕒𝕞𝕖 𝕚𝕤 ℙ𝕣𝕚𝕟𝕔𝕖 𝕂𝕦𝕞𝕒𝕣 𝕂𝕒𝕟𝕠𝕦𝕛𝕚𝕪𝕒.<br>
-<img src="https://media.giphy.com/media/mFTVjWHFk0dw2qxJKs/giphy.gif" width="850px" height="50" >
+<img src="https://media.giphy.com/media/5c5hIZVydGahjjmiHS/giphy.gif" width="130px" height="120">  𝕎𝕖𝕝𝕔𝕠𝕞𝕖, 𝕞𝕪 𝕟𝕒𝕞𝕖 𝕚𝕤 ℙ𝕣𝕚𝕟𝕔𝕖 𝕂𝕦𝕞𝕒𝕣 𝕂𝕒𝕟𝕠𝕦𝕛𝕚𝕪𝕒.<br>
+<img src="https://media.giphy.com/media/mFTVjWHFk0dw2qxJKs/giphy.gif" width="850px" height="50">
 </h1>
 
 
 
-##  About Meee <img src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width="100px" height="130"> 
+##  About Meee <img src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width="120px" height="130"> 
 -  My name is **Prince Kumar Kanoujiya**
 -  I'm a student of **B.Tech Computer Science & Technology** 
 -  I am interested in **Software Developer** , **Web Development** and **Google Analytics**
