@@ -32,7 +32,7 @@ My other interests include gaming, listening to music and playing football.`
 ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=iprincekumark&theme=github_dark&layout=compact)
 
  
-[![Prince's github activity graph](https://activity-graph.herokuapp.com/graph?username=iprincekumark&theme=react-dark&bg_color=#555555&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/iprincekumark/github-readme-activity-graph)
+
 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iprincekumark&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
