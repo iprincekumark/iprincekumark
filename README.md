@@ -8,15 +8,20 @@
 
 
 
-##  About Meee <img src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width="120px" height="130"> 
--  My name is **Prince Kumar Kanoujiya**
--  I'm a student of **B.Tech Computer Science & Technology** 
--  I am interested in **Software Developer** , **Web Development** and **Google Analytics**
--  My favourite language for **DSA** and **general programming** is **C++**
+#  About Meee <img src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width="120px" height="130"> 
 
-`I am Front End Web Developer from India currently pursuing my Bachelor's degree in Computer Science Technology from Graphic Era Deemed University, Dehradun.
-I have a keen interest in developing systems which can solve real life problems. I am also gaining experience in the field of professional coding and Cloud Computing.
-My other interests include gaming, listening to music and playing football.`
+Proficient in "C++ language" and known various programming languages such as "Java and Python" to design, develop, and maintain software applications. Strong knowledge in databases and data storage, specifically "SQL and MySQL", is required to effectively store, retrieve and manipulate data. Familiar with software design and architecture concepts, particularly "object-oriented programming", to ensure software design principles are adhered to for maintainability, scalability and extensibility. Proficiency in Agile development methodologies such as "Agile development, Scrum, Waterfall", and a deep understanding of version control systems like "Git". Understanding of "Cloud computing and DevOps" practices and technologies, allowing to leverage cloud-based services and implement continuous integration and continuous deployment. Familiarity with web development technologies like "HTML, CSS, and JavaScript" to develop and maintain the front-end of web-based applications.
+
+- ***Primary Language (C++)***
+- ***Programming languages (e.g. C++, Java, Python)***
+- ***Databases and data storage (e.g. SQL, MySQL)***
+- ***Software design and architecture (e.g. OOP)***
+- ***Version control systems (e.g. Git)***
+- ***Web development (e.g. HTML, CSS, JavaScript)***
+- ***Software development methodologies (Agile development, Scrum, Waterfall)***
+- ***Operating Systems (Windows, Linux)***
+- ***Software Tools (VS Code, Data Structures & Algorithms, GitHub)***
+
 
 <div align="center">
     
