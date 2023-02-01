@@ -29,7 +29,7 @@ Proficient in "C++ language" and known various programming languages such as "Ja
 
 [<img src="https://tenor.com/view/falling-leaves-youtube-thanksgiving-pop-explode-gif-19389326.gif" width="120px" height="120">](https://www.youtube.com/channel/UCbUjGQ_5IpyrylzplVZKB9w)[<img src="https://tenor.com/view/youtube-gif-21553644.gif" width="120px" height="120">](https://www.youtube.com/channel/UCbUjGQ_5IpyrylzplVZKB9w) 
     
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/iprincekumark/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/iprincekumark/) [<img src = "https://img.shields.io/badge/Resume%20-%23326ce5.svg?&style=for-the-badge&logo=microsoft-word&logoColor=white">](https://drive.google.com/file/d/1CvSbLo68ubNS9oWBpnMhz-qQ6TU9RNt_/view?usp=sharing) [![GitHub followers](https://img.shields.io/github/followers/iprincekumark?label=Followers&style=for-the-badge)](https://github.com/iprincekumark?tab=followers)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/iprincekumark/)  [<img src = "https://img.shields.io/badge/Resume%20-%23326ce5.svg?&style=for-the-badge&logo=microsoft-word&logoColor=white">](https://drive.google.com/file/d/1CvSbLo68ubNS9oWBpnMhz-qQ6TU9RNt_/view?usp=sharing) [![GitHub followers](https://img.shields.io/github/followers/iprincekumark?label=Followers&style=for-the-badge)](https://github.com/iprincekumark?tab=followers)
 
 
 
