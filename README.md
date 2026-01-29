@@ -27,6 +27,7 @@ I'm a **Jr. Software Engineer** at Cognizant Technology Solutions, Bangalore, wi
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -34,6 +35,7 @@ I'm a **Jr. Software Engineer** at Cognizant Technology Solutions, Bangalore, wi
 ### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
@@ -46,6 +48,31 @@ I'm a **Jr. Software Engineer** at Cognizant Technology Solutions, Bangalore, wi
 
 ## 🏗️ Featured Projects
 
+### [🔗 BioLink Pro](https://biolink-pro-eight.vercel.app/)
+**Tech Stack**: Java 21 | Spring Boot 3.4 | Spring Cloud Gateway | React 18 | TypeScript | PostgreSQL | JWT Authentication
+
+A modern, production-ready bio link platform built with microservices architecture - create stunning, customizable bio pages to share all your important links in one beautiful space.
+
+**Key Features:**
+- **Microservices Architecture** with API Gateway, User Service, and Bio Service
+- **JWT-based Authentication** with access and refresh token rotation
+- **Real-time Live Editor** with phone mockup preview
+- **Smart Content Organization** - Links, folders, and media galleries
+- **Theme Customization** with gradient presets
+- **Analytics Dashboard** - Track page views and link clicks
+- **Rate Limiting** using Bucket4j token bucket algorithm
+
+**Technical Highlights:**
+- Implemented Spring Cloud Gateway for routing and centralized authentication
+- Built reactive, non-blocking API gateway with JWT validation filters
+- Designed normalized PostgreSQL schema with JPA relationships
+- Developed responsive React frontend with TypeScript and Vite
+- Deployed frontend on Vercel with automated CI/CD
+
+🔗 **[Live Demo](https://biolink-pro-eight.vercel.app/)** | 📂 **[GitHub Repository](https://github.com/iprincekumark/biolink-pro)**
+
+---
+
 ### [Residential Community Hub](https://github.com/iprincekumark/residential-community-hub)
 **Tech Stack**: Java | Spring Boot | Spring Data JPA | Microservices | React | MySQL | REST APIs
 
@@ -56,14 +83,7 @@ A full-stack web application designed to streamline community management with:
 - Maintenance reporting tool
 - Enhanced backend performance and user account management
 
-### [Ecommerce Platform](https://github.com/iprincekumark/full-stack-ecommerce-project)
-**Tech Stack**: React.js | Node.js | Express | MongoDB | Bootstrap
-
-A secure e-commerce platform featuring:
-- Intuitive admin interface for product and user management
-- Robust authentication with bcrypt password hashing
-- Optimized database schema for efficient data retrieval
-- Responsive design with Bootstrap
+**[View Project →](https://github.com/iprincekumark/residential-community-hub)**
 
 ## 🏆 Achievements & Certifications
 
@@ -88,7 +108,6 @@ A secure e-commerce platform featuring:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iprincekumark/)
-[![Resume](https://img.shields.io/badge/Resume-%23326ce5.svg?&style=for-the-badge&logo=microsoft-word&logoColor=white)](https://drive.google.com/file/d/1CvSbLo68ubNS9oWBpnMhz-qQ6TU9RNt_/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iprincekumark@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iprincekumark?label=Followers&style=for-the-badge)](https://github.com/iprincekumark?tab=followers)
 
