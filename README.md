@@ -1,8 +1,9 @@
-<h1 align="center">Hey, I'm Prince Kumar Kanoujiya 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Prince+Kumar+Kanoujiya+%F0%9F%91%8B;Java+Full+Stack+Engineer;Building+Scalable+Backend+Systems" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <strong>Java Full Stack Engineer</strong> · Building scalable backend systems with Spring Boot<br>
-  Clean architecture enthusiast · Open source contributor
+  <strong>Java Full Stack Engineer</strong> · Clean architecture enthusiast · Open source contributor
 </p>
 
 ---
@@ -18,22 +19,34 @@
 
 ### 🛠️ Tech Stack
 
-**Backend** · Java · Spring Boot · Spring Cloud · Microservices · REST APIs · JPA/Hibernate  
-**Frontend** · React · TypeScript · JavaScript · HTML/CSS  
-**Database** · PostgreSQL · MySQL · MongoDB  
-**DevOps** · Git · Maven · Jenkins · Docker
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iprincekumark&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iprincekumark&theme=github_dark&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iprincekumark&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iprincekumark&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iprincekumark&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iprincekumark&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iprincekumark&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -55,5 +68,11 @@ Microservices architecture · JWT auth · Real-time editor · Analytics dashboar
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iprincekumark&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=iprincekumark&style=flat-square&color=58A6FF" alt="Profile Views"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iprincekumark/iprincekumark/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
