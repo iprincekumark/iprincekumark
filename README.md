@@ -93,21 +93,29 @@ interests:
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iprincekumark&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-</p>
+<div align="center">
+  <a href="https://github.com/iprincekumark">
+    <img src="https://github-stats-alpha.vercel.app/api?username=iprincekumark&cc=0D1117&tc=667eea&ic=764ba2&bc=0D1117" alt="GitHub Stats"/>
+  </a>
+</div>
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iprincekumark&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Languages" height="180"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iprincekumark&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+</div>
 
 <br/>
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iprincekumark&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Languages" height="180"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=iprincekumark&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak"/>
-</p>
+</div>
 
 <br/>
 
@@ -119,9 +127,9 @@ interests:
 
 <br/>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iprincekumark&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
-</p>
+</div>
 
 <br/>
 
