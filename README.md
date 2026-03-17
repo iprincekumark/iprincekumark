@@ -34,7 +34,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 ```yaml
-name: Prince Kumar Kanoujiya
+name: Prince
 role: Java Full Stack Engineer
 company: Cognizant Technology Solutions
 location: Bangalore, India
