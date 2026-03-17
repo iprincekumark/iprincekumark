@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Prince%20Kumar%20Kanoujiya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Engineer&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Prince%20&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Engineer&descSize=18&descAlignY=55"/>
 
 <br/>
 
